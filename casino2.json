@@ -1,0 +1,20 @@
+
+{
+  "ads": [
+    {
+      "isAdsEnabled": false,
+      "imageUrl": "",
+      "link1": "https://www.youtube.com/"
+    },
+    {
+      "isAdsEnabled": false,
+      "imageUrl": "",
+      "link1": ""
+    },
+    {
+      "isAdsEnabled": false,
+      "imageUrl": "",
+      "link1": ""
+    }
+  ]
+}
